@@ -17,8 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/darkbox1522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darkbox1522" height="30" width="40" /></a>
-<a href="https://instagram.com/ian_vanh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ian_vanh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/musicfree-ian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="musicfree-ian" height="30" width="40" /></a>
+<a href="https://instagram.com/iand_tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iand_tv" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC7MSC_9vLXKThKi4yLU0F_Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="musicfree-ian" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
